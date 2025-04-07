@@ -1,0 +1,6 @@
+@SoftwareCenter.Api_HostAddress = http://localhost:1337
+
+POST {{SoftwareCenter.Api_HostAddress}}/vendors
+Accept: application/json
+
+###
