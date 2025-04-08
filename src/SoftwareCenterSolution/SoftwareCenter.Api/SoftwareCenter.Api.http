@@ -1,11 +1,15 @@
 @SoftwareCenter.Api_HostAddress = http://localhost:1337
 
-POST {{SoftwareCenter.Api_HostAddress}}/vendors
+
+# Add A Vendor to the API
+
+POST {{SoftwareCenter.Api_HostAddress}}/commercial-vendors
 Content-Type: application/json 
 
 {
     "name": "Microsoft",
     "site": "https://www.microsoft.com",
+    
     "poc": {
         "name": {
             "first": "William",
@@ -21,5 +25,3 @@ Content-Type: application/json
         ]
     }
 }
-
-###
