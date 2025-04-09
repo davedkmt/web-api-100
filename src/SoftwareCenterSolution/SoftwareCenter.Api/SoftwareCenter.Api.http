@@ -9,9 +9,9 @@ Content-Type: application/json
 {
     "name": "Jetbrains",
     "site": "https://jetbrains.com",
-    "contactFirstName": "Khalid",
-    "contactLastName": "Abernathy",
-    "contactEmail": "khalid@jetbrains.com",
+    "contactFirstName": "John",
+    "contactLastName": "Wick",
+    "contactEmail": "jwick@revenge.com",
     "contactPhone": "888 123-456"
 }
 
